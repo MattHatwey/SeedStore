@@ -3,4 +3,4 @@ Welcome to The Seed Store's official website!
 [README.md](🌱 What is The Seed Store?)
 
 ![IMG_4824](https://github.com/MattHatwey/SeedStore/assets/65838701/468ddf9f-28ce-4b0e-b837-3197153736df)
-<img IMG_5824="https://your-image-url.type" width="100" height="100">
+<img IMG_5824 ="https://your-image-url.type" width="100" height="100">
