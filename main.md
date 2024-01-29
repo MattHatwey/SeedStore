@@ -1,3 +1,4 @@
-# Welcome to The Seed Store's official website!
+# SeedStore
+The Seed Store's first website!
 
-[🌱 What is The Seed Store? 🌱](README.md)
+The Seed Store is a company that released on March 3rd, 2021. It finally released to the public on January 28th, 2024!!!
