@@ -4,4 +4,5 @@
 <img width="1162" alt="Screen Shot 2024-01-29 at 10 14 21 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/3ee01069-7dbf-493b-a1fb-60657e2f7ba7">
 <img width="1164" alt="Screen Shot 2024-01-29 at 10 14 42 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/7b9b016e-a0f0-4208-91e1-e15b76b28941">
 <img width="1164" alt="Screen Shot 2024-01-29 at 10 15 43 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/acc77fc3-0dd8-4370-b9b3-da0f22bc31d8">
-![Uploading Screen Shot 2024-01-29 at 10.15.55 AM.png…]()
+<img width="1165" alt="Screen Shot 2024-01-29 at 10 15 55 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/74a04096-1a99-499b-9161-91066a3f20a3">
+<img width="1164" alt="Screen Shot 2024-01-29 at 10 16 17 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/7044b11a-b916-4a55-91ae-0373a130d758">
