@@ -1,8 +1,7 @@
 <img width="831" alt="Screen Shot 2024-01-29 at 10 13 13 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/139aa66d-480d-43ca-a712-8f5cee63c095">
 <img width="1165" alt="Screen Shot 2024-01-29 at 10 13 40 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/b0f05848-5ef1-41fe-bd4f-a29703e59f8c">
 <img width="872" alt="Screen Shot 2024-01-29 at 10 13 56 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/bd280e66-21c6-4e67-aaf2-6d7a199ce45d">
-<img width="1164"![Screen Shot 2024-01-31 at 6 21 16 PM]
- 
+<img width="1164" alt="Screen Shot 2024-01-29 at 10 15 43 AM" 
 <img width="1164" alt="Screen Shot 2024-01-29 at 10 15 43 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/acc77fc3-0dd8-4370-b9b3-da0f22bc31d8">
 <img width="1165" alt="Screen Shot 2024-01-29 at 10 15 55 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/74a04096-1a99-499b-9161-91066a3f20a3">
 <img width="1164" alt="Screen Shot 2024-01-29 at 10 16 17 AM" src="https://github.com/MattHatwey/SeedStore/assets/65838701/7044b11a-b916-4a55-91ae-0373a130d758">
